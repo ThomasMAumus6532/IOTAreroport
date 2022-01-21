@@ -1,0 +1,8 @@
+entity\Flight.class
+resource\PersonneResource.class
+mqtt\Consumer.class
+rest\entity\Plane.class
+rest\resource\PlaneResource.class
+entity\Personne.class
+rest\app\RestAPI.class
+resource\FlightResource.class
